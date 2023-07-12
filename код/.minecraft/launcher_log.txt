@@ -1,0 +1,61 @@
+[Info: 2022-04-22 06:14:06.7359350: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2022-04-22 06:14:06.8263253: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2022-04-22 06:14:06.8361342: mainWindows.cpp(86)] Running launcher bootstrap (version 1.1.7)
+[Info: 2022-04-22 06:14:10.5711949: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2022-04-22 06:14:10.5969320: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2022-04-22 06:14:10.5980160: Common.cpp(32)] Native Launcher Version: 1.1.7
+[Info: 2022-04-22 06:14:10.5980591: Common.cpp(33)] Operating System: Windows 10 Pro
+[Info: 2022-04-22 06:14:10.5981431: Common.cpp(34)] Application Data directory: C:\...\.minecraft
+[Info: 2022-04-22 06:14:10.5985262: Common.cpp(35)] Executable Path: /:\...\Minecraft.exe
+[Info: 2022-04-22 06:14:10.5985676: Common.cpp(36)] App Directory dir: C:\...\Local
+[Info: 2022-04-22 06:14:10.5986047: Common.cpp(37)] Game data directory: C:\...\.minecraft
+[Info: 2022-04-22 06:14:10.5986426: Common.cpp(38)] Launcher dir: C:\...\game
+[Info: 2022-04-22 06:14:10.5986807: Common.cpp(39)] Java dir: C:\...\jre-x64
+[Info: 2022-04-22 06:14:10.5987176: Common.cpp(40)] TmpDir dir: C:\...\MinecraftLauncher
+[Info: 2022-04-22 06:14:10.5987582: Common.cpp(41)] x64: true
+[Info: 2022-04-22 06:14:10.5987930: LauncherConfiguration.cpp(292)] Using update preferences at path: C:\...\launcher_profiles.json
+[Info: 2022-04-22 06:14:10.6329615: LauncherConfiguration.cpp(295)] Failed to read update preferences from C:\...\launcher_profiles.json
+[Info: 2022-04-22 06:14:10.6330257: LauncherConfiguration.cpp(306)] Using update preferences at path: C:\...\launcher_settings.json
+[Info: 2022-04-22 06:14:10.6347629: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/f8ed2cc81a1e57977c3d5c57472cf6e978e1ff61/gamecore.json
+[Info: 2022-04-22 06:14:10.9852457: NetQueue.cpp(472)] NetQueue: Primary ip: 99.86.8.139, Host: launchermeta.mojang.com
+[Info: 2022-04-22 06:14:10.9852944: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/f8ed2cc81a1e57977c3d5c57472cf6e978e1ff61/gamecore.json
+[Info: 2022-04-22 06:14:10.9853271: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/f8ed2cc81a1e57977c3d5c57472cf6e978e1ff61/gamecore.json
+[Info: 2022-04-22 06:14:10.9973369: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 1601128239
+[Warning: 2022-04-22 06:14:10.9973968: LauncherConfiguration.cpp(202)] There is no launcher-bootstrap-ado release to change to.
+[Error: 2022-04-22 06:14:10.9974451: LauncherConfiguration.cpp(227)] We cannot update launcher-bootstrap-ado because the manifest is not known.
+[Info: 2022-04-22 06:14:10.9975855: LauncherConfiguration.cpp(261)] Error opening: C:\...\.version, Error message: no such file or directory
+[Info: 2022-04-22 06:14:10.9976338: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 1601128239
+[Info: 2022-04-22 06:14:10.9976696: LauncherConfiguration.cpp(219)] We should change launcher-core-ado from unknown to 2.3.136
+[Info: 2022-04-22 06:14:10.9977016: LauncherConfiguration.cpp(238)] launcher-core-ado update is needed.
+[Info: 2022-04-22 06:14:10.9977502: main.cpp(41)] Game launcher outdated!
+[Info: 2022-04-22 06:14:10.9978184: UpdatePistonComponent.cpp(57)] Piston update in folder C:\...\game will now run. (https://piston-meta.mojang.com/v1/packages/60b8dd8b22235297803f2162fc73689b1ceed8e5/manifest.json to version 2.3.136)
+[Info: 2022-04-22 06:14:10.9978714: PistonUpdate.cpp(606)] Downloading https://piston-meta.mojang.com/v1/packages/60b8dd8b22235297803f2162fc73689b1ceed8e5/manifest.json
+[Info: 2022-04-22 06:14:10.9980104: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/60b8dd8b22235297803f2162fc73689b1ceed8e5/manifest.json
+[Info: 2022-04-22 06:14:11.1646296: NetQueue.cpp(472)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2022-04-22 06:14:11.1646901: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/60b8dd8b22235297803f2162fc73689b1ceed8e5/manifest.json
+[Info: 2022-04-22 06:14:11.1648067: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/60b8dd8b22235297803f2162fc73689b1ceed8e5/manifest.json
+[Info: 2022-04-22 06:14:11.1696239: PistonUpdate.cpp(682)] Target path: C:\...\game
+[Info: 2022-04-22 06:14:11.1706195: PistonUpdate.cpp(698)] Staging path: C:\...\PistonStaging
+[Info: 2022-04-22 06:14:11.1796592: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/a84ab64783737a8248da75b7ea446724a2f2c9bd/JavaCheck.jar
+[Info: 2022-04-22 06:14:11.1958017: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/e1dc01309fca499af605f83136d35e6d51fcd300/chrome_100_percent.pak
+[Info: 2022-04-22 06:14:11.2018039: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/33abea51f76bde3e37f71b7e94f01647bb4dcbd5/chrome_200_percent.pak
+[Info: 2022-04-22 06:14:11.2108581: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/18e226b7466f71c50c0b62c6a6fb9c294831e696/chrome_elf.dll
+[Info: 2022-04-22 06:14:11.2364116: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/af5e60458374eaf560448a63cd7beaffb3df3901/d3dcompiler_47.dll
+[Info: 2022-04-22 06:14:11.2375603: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/26f4de553868022e407c4c680b883477197e5bdb/icudtl.dat
+[Info: 2022-04-22 06:14:11.3646208: NetQueue.cpp(472)] NetQueue: Primary ip: 152.199.21.175, Host: piston-data.mojang.com
+[Info: 2022-04-22 06:14:11.3646878: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/a84ab64783737a8248da75b7ea446724a2f2c9bd/JavaCheck.jar
+[Info: 2022-04-22 06:14:11.3649783: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-data.mojang.com/v1/objects/a84ab64783737a8248da75b7ea446724a2f2c9bd/JavaCheck.jar
+[Info: 2022-04-22 06:14:11.3650918: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/42d23a23d2605ae042dd850f62197fd6aaae3b00/launcher.dll
+[Info: 2022-04-22 06:14:17.0646928: NetQueue.cpp(472)] NetQueue: Primary ip: 152.199.21.175, Host: piston-data.mojang.com
+[Info: 2022-04-22 06:14:17.0647493: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/18e226b7466f71c50c0b62c6a6fb9c294831e696/chrome_elf.dll
+[Info: 2022-04-22 06:14:17.0649891: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-data.mojang.com/v1/objects/18e226b7466f71c50c0b62c6a6fb9c294831e696/chrome_elf.dll
+[Info: 2022-04-22 06:14:17.0650501: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/547db138657c79c90087a51f3676f2358689155e/libEGL.dll
+[Info: 2022-04-22 06:14:19.6635081: NetQueue.cpp(472)] NetQueue: Primary ip: 152.199.21.175, Host: piston-data.mojang.com
+[Info: 2022-04-22 06:14:19.6635654: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/547db138657c79c90087a51f3676f2358689155e/libEGL.dll
+[Info: 2022-04-22 06:14:19.6637755: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-data.mojang.com/v1/objects/547db138657c79c90087a51f3676f2358689155e/libEGL.dll
+[Info: 2022-04-22 06:14:19.6638356: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/53ae2998c9781c0146e397fc1588b574db7e1a40/libGLESv2.dll
+[Info: 2022-04-22 06:14:29.3967811: NetQueue.cpp(472)] NetQueue: Primary ip: 152.199.21.175, Host: piston-data.mojang.com
+[Info: 2022-04-22 06:14:29.3968416: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/e1dc01309fca499af605f83136d35e6d51fcd300/chrome_100_percent.pak
+[Info: 2022-04-22 06:14:29.3971116: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-data.mojang.com/v1/objects/e1dc01309fca499af605f83136d35e6d51fcd300/chrome_100_percent.pak
+[Info: 2022-04-22 06:14:29.3971853: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/173c4f819939342f35ad7f7a3cec606176cb8d11/libcef.dll
+[Warning: 2022-04-22 06:14:29.3971938: PistonUpdate.cpp(793)] User requested to abort piston update during downloads

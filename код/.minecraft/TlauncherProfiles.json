@@ -1,0 +1,15 @@
+{
+  "clientToken": "b9711bbe-c058-447f-8484-59fe138e7fe5",
+  "accounts": {
+    "dbef0a66920c447387ac120efcaa6967": {
+      "username": "Holy_Demon1454",
+      "userID": "Holy_Demon1454",
+      "displayName": "Holy_Demon1454",
+      "uuid": "dbef0a66920c447387ac120efcaa6967",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "dbef0a66920c447387ac120efcaa6967",
+  "freeAccountUUID": "dbef0a66920c447387ac120efcaa6967"
+}

@@ -1,0 +1,18 @@
+{
+  "worlds": [
+    {
+      "name": "Новый мир (2)",
+      "source": "C:\\Users\\abalc\\AppData\\Roaming\\.minecraft\\saves\\Новый мир (2)",
+      "destination": "C:\\Users\\abalc\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\Новый мир (2)",
+      "lastChanged": "2023-02-02T18:49:58",
+      "backup": false
+    },
+    {
+      "name": "100 days",
+      "source": "C:\\Users\\abalc\\AppData\\Roaming\\.minecraft\\saves\\100 days",
+      "destination": "C:\\Users\\abalc\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\100 days",
+      "lastChanged": "2023-05-12T21:33:08",
+      "backup": false
+    }
+  ]
+}

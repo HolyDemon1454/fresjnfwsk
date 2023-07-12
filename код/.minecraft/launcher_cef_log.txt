@@ -1,0 +1,11 @@
+[0920/172404.401:INFO:main_context.cpp(136)] CEF initialized successfully.
+[0920/172404.416:INFO:main_context.cpp(138)] CEF version: 85.3.13+gcd6cbe0+chromium-85.0.4183.121
+[0920/172410.927:WARNING:angle_platform_impl.cc(48)] compileToBinary(257): 
+C:\fakepath(107,1-13): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+C:\fakepath(102,1-13): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[0920/172431.196:INFO:LauncherAppRenderer.cpp(51)] [Info: 2021-09-20 12:24:31.1752847: LauncherMain.cpp(101)] Initiated models
+[0920/172431.196:INFO:LauncherAppRenderer.cpp(51)] [Info: 2021-09-20 12:24:31.1760096: LauncherController.cpp(399)] Constructing launcher controller with workDir: E:\...\.minecraft, isActive: 0
+[0920/172431.197:INFO:LauncherAppRenderer.cpp(51)] [Info: 2021-09-20 12:24:31.1915153: LauncherAppRenderer.cpp(172)] Javascript bridge extended in OnWebKitInitialized.
+[0920/172431.399:INFO:LauncherAppRenderer.cpp(518)] OnContextReleased: no frame (unknown context), browser id=2
+[0920/172431.410:INFO:LauncherAppRenderer.cpp(69)] OnBrowserDestroyed: id=2

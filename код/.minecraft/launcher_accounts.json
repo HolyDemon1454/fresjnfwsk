@@ -1,0 +1,20 @@
+{
+  "accounts" : {
+    "58b3827da6cb41d68c8c49e43c6fe8f1" : {
+      "accessToken" : "",
+      "accessTokenExpiresAt" : "2021-09-21T12:24:41Z",
+      "avatar" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPySURBVHhe7VjNbtNAEJ51/tyENkgUqeXaN6g48QJcOaKKS3kFjrwBEg/ABSEqLty48gIcQOLEhSMSFVKbVgltGtLY5pv1pk2ctV2v2aZi/TVfJnF2xzvf7s6sK36+ehiRw/CUdRaVAMo6i0oAZZ1FJYCyzqISQFlnUQmgrLOoBFDWWSxfgAgPo1GobBGqPiWx5MdhQaLhq89miCajUkIsTwAMWjTb1N5+LK1REGFAw6/vKRz2EInZYl7iFogD5uBFs6NsEXKfDhwI6ccUSxRADXx2Pxcm+pVEVQWUdRaVAMrag9zfGZQokch0PmeZA8sCoM77a+St3Aa7cxRMvyvbYKSydWGgAgh/VfpJ+pf3YP855dHeOQBZWtSb1L7/hDyIEGlnAwHUGuqzGaLgnN/jL3OAsMGYTr+8o2jUTxXC/gqoNYnqLYihI34rCfah990iwr3zjgnWc0C0ULsTLAudT6ZcFcxsWBfgpqMSQFln4Wn3zwUTNVVDD0mmpiFfZ5Z8VoEPj2peOmNgrEmqGPJykNh//Qif0sBZvC4tWssrlxAUQoDBcEBhCDGSgcK5h0y88eAp1XAOkIIVBIZPg7Mh7qMfIou71u5CiBq+LY4vQhkcft6jMKMMiv63D3rvfFOvTq172ygpfvx9Bqx+7/cR7bzYge1h1nkQl2BxOq0VerP7nDa7dyhgkQrAQ3Sn4xHt7r2k/cER1S9mOwaL0kQJ3Hv2lrY2t2gSTNQvCjwh4YRGPz5RdH4Wq6WBp3/WBlsd8pg+n+L05JPW8SSko3FAvfNFHoMhdMM6UrcrBl6+x2cn1Dvp0+HJYI495ilWH4QX9YY8bywS5wFdbDPMyAEhDO/zQH5eZNyG50WfB4S8Xg7sA5zZ80liEPIVv81QGrbZ1G8Mh1AJoKyzuIIAvJF1jMGJijPyIkNp0SJuaASd3ynhnzMsj0UOZ3Zs6hozB/kCcBJEOUkyYovfOi2fVlHubsHOk6+toPqgHhuLIKjTzPLvowUScpA2RlzPubcYfP+Y2YJLSVoN5QPQQf8As8E3SrbBKQv91jt8UDHbaby6DlHqAhmIxj/+1rt3qYHDmj4ISD8ZS5uGXAFk57QWGBOfwtLqPM980QNQEixetn+IkxVByuRNcQUB/m9UVUBZZ1EJoKyzsC8AH1YCkG0RTvtYht0qwDH8+oNabHgLTE9tg/+9nV3KysDuCkDcEc+k6Qpg4pVyDPgnsL8FTAfP/SwGPkWVBJV1FpUAytoDJzETcD/TvgVgVwBOYnwHY8IB+7AohP2nwWkpMwEHb/EMwGCd7YIDaBjScvAM+wIweAWY8BpwPQLcYFQCKOssKgGUdRREfwFzEZqj0EYCggAAAABJRU5ErkJggg==",
+      "eligibleForMigration" : false,
+      "hasMultipleProfiles" : false,
+      "legacy" : false,
+      "localId" : "58b3827da6cb41d68c8c49e43c6fe8f1",
+      "persistent" : true,
+      "remoteId" : "2535468809606300",
+      "type" : "Xbox",
+      "userProperites" : [],
+      "username" : "Wedwoody1337"
+    }
+  },
+  "activeAccountLocalId" : "58b3827da6cb41d68c8c49e43c6fe8f1",
+  "mojangClientToken" : "a7ab6497-457f-4f6f-b3f6-186428a391b1"
+}
