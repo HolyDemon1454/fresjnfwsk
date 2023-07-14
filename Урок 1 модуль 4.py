@@ -9,10 +9,23 @@
 #     print(sym, count)
 
 
+# s = "aab"
+# syms_counter = {}
+# for sym in s:
+#     syms_counter[sym] = syms_counter.get(sym)+1
+# print(syms_counter)
+
+#fwekhjsrkhjgrsw
+
+
 s = "aab"
 syms_counter = {}
 for sym in s:
     syms_counter[sym] = syms_counter.get(sym)+1
 print(syms_counter)
-
-
+s = "aab"
+syms_counter = {}
+for sym in s:
+    syms_counter[sym] = syms_counter.get(sym)+1
+print(syms_counter)
+#dfgnmdkgndkkern
