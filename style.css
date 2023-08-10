@@ -1,0 +1,16 @@
+
+
+h1 {
+    background: rgb(0, 255, 136);
+    color: white;
+}
+
+
+.description{
+    border: 2px solid rgb(255, 94, 0);
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 20px;
+    margin-top: 250px;
+    margin-left: 250px;
+}
